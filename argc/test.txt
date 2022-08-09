@@ -1,1 +1,1 @@
-C:\Users\Iulian\Desktop\check\argc\main.exe
+c:\Users\Iulian\Documents\GitHub\CPLUS-Begining\argc\main.exe
